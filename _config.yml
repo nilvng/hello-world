@@ -29,6 +29,9 @@ github_username: nilvng
 linkedin_username: nillin27
 gmail_username: nilverspace@gmail.com
 
+author: Ngan Nguyen
+show_excerpts: true
+
 # Build settings
 theme: minima
 remote-theme: minima
