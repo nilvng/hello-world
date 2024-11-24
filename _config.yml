@@ -31,6 +31,7 @@ gmail_username: nilverspace@gmail.com
 
 # Build settings
 theme: minima
+remote-theme: minima
 plugins:
   - jekyll-feed
 
