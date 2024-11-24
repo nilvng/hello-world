@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Welcome to my corner of the internet!"
+date:   2024-11-24 12:30:26 +1100
+categories: rant
+---
+
+I have decided to own a corner of the internet. A place where I can share my thoughts about technology, life experiences.
+How I level up my skills.
+
+I'm not sure what I will write about yet. But I'm sure it will be interesting.
+
